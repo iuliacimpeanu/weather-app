@@ -9,15 +9,14 @@ body {
 }
 
 .app {
-  background-image: url(./images/cold-bg.jpg);
+  background-image: url(./images/cold-land.jpeg);
   background-size: cover;
   background-position: bottom;
   transition: 0.4s ease-out;
-  max-width: 7;
 }
 
 .app.warm {
-  background-image: url(./images/warm-bg.jpg);
+  background-image: url(./images/warm-land.jpeg);
 }
 
 main {
